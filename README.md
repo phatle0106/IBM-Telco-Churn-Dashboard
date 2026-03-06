@@ -26,3 +26,7 @@ https://ibm-telco-churn-dashboard.streamlit.app/
 
 - `app.py` - Streamlit dashboard application
 - `telco_churn.csv` - Telco churn dataset
+
+## Data Source & Attribution
+The dataset used in this dashboard is the **Telco Customer Churn** dataset, originally provided by IBM. 
+It was accessed via [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
