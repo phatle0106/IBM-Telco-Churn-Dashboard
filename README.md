@@ -32,4 +32,4 @@ The dataset used in this dashboard is the **Telco Customer Churn** dataset, orig
 It was accessed via [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
