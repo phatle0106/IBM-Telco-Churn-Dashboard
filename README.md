@@ -24,8 +24,10 @@ https://ibm-telco-churn-dashboard.streamlit.app/
 
 ## Project Files
 
-- `app.py` - Streamlit dashboard application
-- `telco_churn.csv` - Telco churn dataset
+- `app.py` - Streamlit dashboard application and visualization logic
+- `data/telco_churn.csv` - Telco churn dataset (or just `telco_churn.csv` if in the root)
+- `requirements.txt` - Python dependencies for Streamlit Cloud deployment
+- `LICENSE` - MIT License file
 
 ## Data Source & Attribution
 The dataset used in this dashboard is the **Telco Customer Churn** dataset, originally provided by IBM. 

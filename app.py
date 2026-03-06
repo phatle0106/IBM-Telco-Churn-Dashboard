@@ -265,7 +265,7 @@ try:
     raw_df = load_data("data/telco_churn.csv")
     df = prepare_data(raw_df)
 except FileNotFoundError:
-    st.error("File not found: data/telco_churn.csv. Place the dataset in the same folder as app.py.")
+    st.error("File not found: data/telco_churn.csv. Place the dataset in the 'data' folder.")
     st.stop()
 except ValueError as err:
     st.error(str(err))
